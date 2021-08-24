@@ -7,8 +7,8 @@
 
         <link rel="stylesheet" href="styles.css">
 
-        <!-- <script src="jquery.js"></script> -->
-        <!-- <script src="validate.js"></script> -->
+        <script src="jquery.js"></script>
+        <script src="validate.js"></script>
 
         <title>Form Validation</title> 
 
