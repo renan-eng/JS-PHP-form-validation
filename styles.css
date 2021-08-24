@@ -1,0 +1,47 @@
+        body{
+            font-family: Arial;
+            font-size: 12px;
+        }
+        label{
+            display: block;
+            float: left;
+            clear: both;
+            width: 180px;
+            margin-top: 10px;
+        }
+        label em{
+            display: block; 
+            float: right;
+            padding-right: 8px;
+            color: red;
+        }
+        textarea, input{
+            float: left;
+            width: 220px;
+            padding: 2px;
+        }
+        textarea{
+            height: 180px;
+        }
+        #submit{
+            clear: both;
+            margin-left: 180px;
+            width: 100px;
+        }
+        fieldset{
+            border: 0;
+        }
+        .required_msg{
+            padding-left: 180px;
+            clear: both;
+            float: left;
+            color: red;
+        }
+        label.error{
+            float: left;
+            color: red;
+            clear: none;
+            width: 200px;
+            padding-left: 10px;
+            font-size: 11px;
+        }
